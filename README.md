@@ -14,5 +14,5 @@ Se despliega los servicios Web que permiten acoplarse a la parte Frontend del pr
 Se adjunta mapa de capacidades
 [MAPA DE CAPACIDADES_Diego Alencastro-1.pdf](https://github.com/DiegoAlencastro/FrontendActualizaBI/files/13531524/MAPA.DE.CAPACIDADES_Diego.Alencastro-1.pdf)
 
-
-
+Para ejecutar el aplicativo, se debe realizar mediante el archivo ActualizateServiceApplication.java en el IDE
+Se puede cambiar el puerto y nombre de la base H2 configurando el archivo application.yml
