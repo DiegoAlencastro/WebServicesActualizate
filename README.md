@@ -1,2 +1,18 @@
 # WebServicesActualizate
 Servicios Web para la parte front del proyecto Actualizate
+
+Nombre: Diego Alencastro
+
+Solucion para empresa Banco internacional
+
+Proyecto ActualizateBI
+
+Descripcion: El aplicativo expondra un formulario para que los clientes del banco internacional puedan actualizar sus datos de una forma rapida.
+
+Se despliega los servicios Web que permiten acoplarse a la parte Frontend del proyecto
+
+Se adjunta mapa de capacidades
+[MAPA DE CAPACIDADES_Diego Alencastro-1.pdf](https://github.com/DiegoAlencastro/FrontendActualizaBI/files/13531524/MAPA.DE.CAPACIDADES_Diego.Alencastro-1.pdf)
+
+
+
