@@ -16,3 +16,6 @@ Se adjunta mapa de capacidades
 
 Para ejecutar el aplicativo, se debe realizar mediante el archivo ActualizateServiceApplication.java en el IDE
 Se puede cambiar el puerto y nombre de la base H2 configurando el archivo application.yml
+
+
+El aplicativo se publico en el siguiente dominio https://webservicesactualizate-domain.up.railway.app/users
